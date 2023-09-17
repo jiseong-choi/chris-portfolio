@@ -1,4 +1,5 @@
 import {ReactNode} from "react";
+import "@/assets/scss/style.scss";
 
 export const metadata = {
   title: "chris-choi portfolio",
